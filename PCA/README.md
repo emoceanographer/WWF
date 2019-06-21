@@ -19,7 +19,7 @@ In our third analysis, we are interested to see if countries cluster together ba
 
 ## Analysis 4
 
-Based on previous analyses, countries' natural clustering aligns best with the inncome group level. From the plots we can see that low-middle income are often clustered together by k means. We are interested to see if a lower number of clusters(3) will yield a better result. 
+Based on previous analyses, countries' natural clustering aligns best with the in come group level. The plots show that low-middle income are often clustered together by k means. We are interested to see if a lower number of clusters(3) will yield a better result. 
 
 
 ## Datasets Inventory
