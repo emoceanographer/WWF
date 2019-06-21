@@ -4,6 +4,8 @@ For this project, we use PCA to reduce the dimensionality of our dataset, and we
 
 We retreieved region and income level information from UN's country classification dataset. https://www.un.org/en/development/desa/policy/wesp/wesp_current/2014wesp_country_classification.pdf
 
+https://nbviewer.jupyter.org/github/FrankOnBeach/WWF/blob/master/PCA/PCA%20Analysis%20.ipynb for plotly embedded Jupyter Notebook. 
+
 ## Analysis 1
 
 In our second analysis, we are interested to see if countries cluster together based solely on protein food balance sheet data. This incluses Milk, Bovine meat, Sheep and goat meat, Pigmeat, Poultry, Eggs, Fish, Maize, Rice, Wheat, Rye, Barley, Pulses, Starchy roots on continent region and income group level. 
